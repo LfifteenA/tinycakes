@@ -1,0 +1,74 @@
+body	{
+	    font-family: 'Open Sans', sans-serif;
+		background: url(images/backgrounds/knitting250px.png) 
+	      		no-repeat center center; 
+	    -moz-background-size: cover;
+	    -o-background-size: cover;
+	    background-size: cover;
+}
+
+header	{
+	margin-top: 80px;
+}
+
+.navbar-fixed-top	{
+	background-color: #fff;
+}
+
+a.navbar-fixed-top	{
+	color: #fff;
+}
+
+.jumbotron {
+    border: 1px solid #f5f5f5;
+}
+.btn	{
+	background-color: #f5f5f5;
+	border: 1px #c5c0c6 solid;
+	font-weight: lighter;
+	color: #de9ff7;
+	margin: 2px;
+}
+
+a.btn:hover	{
+	background-color: #de9ff7;
+	border: 1px #c5c0c6 solid;
+	font-weight: lighter;
+	color: #fff;
+	margin: 2px
+}
+
+
+
+
+
+
+
+
+/*grey
+#c5c0c6
+
+purple
+#de9ff7
+
+yellow
+#e5cc70
+
+blue
+#77ddf9
+
+green
+#5f965d
+
+google font  - open sans
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+font-family: 'Open Sans', sans-serif;
+
+link to any bakery for extra credit
+"title" - tooltip in img
+font icons - use
+
+
+*/
